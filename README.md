@@ -61,10 +61,6 @@ Ez tartalmazza a strukturált készség-profilt, szint szerint (beginner /
 intermediate / advanced), a bérelvárást, és a kiemelt projekteket. Ezt
 időnként frissíteni kell, ahogy a tudás és a projektek változnak.
 
-**Fontos:** a `StudyMate` és `UniTools` projekteknél a README/feature-lista
-állapotát ellenőrizni kell referálás előtt, mert korábban befejezetlen
-állapotban voltak.
-
 ## Tervezett, de még nem épített komponensek
 
 Sorrend szerint, a következő lépésekben:
@@ -74,9 +70,6 @@ Sorrend szerint, a következő lépésekben:
 3. Tanulhatóság-becslés (mely hiányzó skillek pótolhatók ésszerű időn belül)
 4. CV testreszabás
 5. LinkedIn Easy Apply automatikus kitöltés
-
-**Ezek explicit NEM részei a jelenlegi kódnak, és nem is kerülnek bele, amíg
-külön nem foglalkozunk velük.**
 
 ## Ismert korlátok
 
