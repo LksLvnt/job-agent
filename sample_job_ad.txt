@@ -1,0 +1,14 @@
+Junior Frontend Fejlesztő (Angular)
+
+Cégünk keres junior Angular fejlesztőt csapatunkba. Elvárások:
+- Angular 15+ ismerete (Signals előny)
+- TypeScript, RxJS alapok
+- REST API integráció tapasztalat
+- Git alapú verziókövetés
+- Angol nyelvtudás (kommunikációs szint)
+
+Előny:
+- Docker, CI/CD alapismeretek
+- Supabase vagy hasonló BaaS tapasztalat
+
+Amit kínálunk: rugalmas munkaidő, home office lehetőség, mentorprogram.
