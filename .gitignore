@@ -1,5 +1,6 @@
 .env
 self_profile.json
+generated_cvs/
 __pycache__/
 *.pyc
 .venv/
